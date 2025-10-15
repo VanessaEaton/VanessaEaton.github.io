@@ -1,1 +1,11 @@
-site_name: My Docs
+site_name: Vanessa Eaton Personal Site
+nav:
+  - Home: index.md
+  # - Blog: blog.md
+  # - Projects: projects.md
+  - About: about.md
+  # - Contact: contact.md
+  - Resume: resume.md
+site_url: https://vanessaeaton-github-io.pages.dev
+theme:
+  name: material
