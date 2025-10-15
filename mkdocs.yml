@@ -8,4 +8,8 @@ nav:
   - Resume: resume.md
 site_url: https://vanessaeaton-github-io.pages.dev
 theme:
-  name: branding
+  name: material
+  palette:
+    scheme: branding
+  font:
+    text: Poppins
