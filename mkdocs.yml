@@ -8,4 +8,4 @@ nav:
   - Resume: resume.md
 site_url: https://vanessaeaton-github-io.pages.dev
 theme:
-  name: material
+  name: branding
