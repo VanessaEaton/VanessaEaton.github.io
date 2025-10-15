@@ -13,3 +13,6 @@ theme:
     scheme: branding
   font:
     text: Poppins
+
+extra_css:
+  - stylesheets/extra.css
