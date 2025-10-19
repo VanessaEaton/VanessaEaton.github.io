@@ -1,6 +1,6 @@
 site_name: Vanessa Eaton Personal Site
 nav:
-  - Home: index.md
+  - Home: about.md
   # - Blog: blog.md
   # - Projects: projects.md
   - About: about.md

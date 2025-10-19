@@ -24,3 +24,7 @@ code, pre, .drac-code {
     color: black;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+
+.divider {
+    min-width: 4rem !important;
+}
