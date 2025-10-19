@@ -1,9 +1,0 @@
-{# Overridden nav for top horizontal placement #}
-{% import "partials/nav-item.html" as item with context %}
-<nav class="md-nav md-nav--primary md-nav--horizontal" aria-label="{{ lang.t('nav') }}">
-  <ul class="md-nav__list md-nav__list--horizontal" data-md-scrollfix>
-    {% for nav_item in nav.items %}
-      {{ item.render(nav_item, '__nav_' ~ loop.index, 1) }}
-    {% endfor %}
-  </ul>
-</nav>

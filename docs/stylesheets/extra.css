@@ -1,121 +1,26 @@
-[data-md-color-scheme="branding"] {
+/* [data-md-color-scheme="branding"] {
   --md-primary-fg-color:        #B5B5CF;
   --md-secondary-fg-color: #B5AE9B;
+} */
+
+.drac-btn, .drac-heading, .drac-input, .drac-select, .drac-text {
+    font-family: 'Poppins', sans-serif;
 }
 
-
-/* Move nav to the top: horizontal nav and header layout */
-.md-header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  padding: 0.5rem 1rem;
-  background: var(--md-primary-fg-color, transparent);
+.drac-bg-purple-cyan, .drac-bg-purple-cyan, .drac-bg-purple, .drac-bg-cyan-green, .drac-scrollbar-purple {
+    background: #B5B5CF;
 }
 
-.md-header__inner {
-  display: flex;
-  align-items: center;
-  gap: 1rem;
-  width: 100%;
+.drac-bg-black, .drac-bg-black-secondary {
+    background: white;
 }
 
-.md-header__brand {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
+a, .drac-text-white, .drac-text-black, .drac-text-purple, .drac-text-cyan, .drac-text-green {
+    color: black;
 }
 
-.md-header__nav {
-  flex: 1 1 auto;
+code, pre, .drac-code {
+    background-color: #B5AE9B;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
-
-.md-nav--horizontal .md-nav__list {
-  display: flex;
-  gap: 0.75rem;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  align-items: center;
-}
-
-.md-nav--horizontal .md-nav__item > a,
-.md-nav--horizontal .md-nav__item > .md-nav__link {
-  display: inline-block;
-  padding: 0.5rem 0.75rem;
-  color: var(--md-primary-fg-color, inherit);
-  text-decoration: none;
-}
-
-/* Hide the original side drawer/nav when using top nav */
-.md-nav--primary.md-nav--vertical,
-.md-drawer {
-  display: none !important;
-}
-
-/* Make sure content doesn't reserve space for side nav */
-.md-main {
-  margin-left: 0 !important;
-}
-
-/* Hide the left navigation sidebar on larger screens since nav is in the header now */
-.md-sidebar--primary {
-  display: none !important;
-}
-
-/* Responsive: stack header elements on small screens and show drawer toggle if needed */
-@media (max-width: 840px) {
-  .md-header {
-    flex-direction: column;
-    align-items: stretch;
-  }
-  .md-header__nav {
-    order: 3;
-  }
-  .md-nav--horizontal .md-nav__list {
-    flex-direction: column;
-    gap: 0;
-  }
-  /* Allow default drawer to show on small screens by reverting display for .md-drawer */
-  .md-drawer {
-    display: block !important;
-  }
-  /* Re-show the primary sidebar (drawer contents) on small screens */
-  .md-sidebar--primary {
-    display: block !important;
-  }
-}
-
-/* Remove table of contents sidebar and inline TOC elements */
-.md-sidebar--secondary,
-.md-toc,
-.md-toc--integrated {
-  display: none !important;
-}
-
-/* Header visual polish */
-.md-header {
-  position: sticky;
-  top: 0;
-  z-index: 999;
-  box-shadow: 0 1px 0 rgba(0,0,0,0.06);
-}
-
-.md-header__actions {
-  display: flex;
-  gap: 0.5rem;
-  align-items: center;
-}
-
-.md-nav--horizontal .md-nav__item--active > a,
-.md-nav--horizontal .md-nav__item--active > .md-nav__link {
-  font-weight: 600;
-  border-bottom: 2px solid var(--md-primary-fg-color--dark, currentColor);
-}
-
-.md-nav--horizontal .md-nav__item > a:hover,
-.md-nav--horizontal .md-nav__item > .md-nav__link:hover {
-  background: rgba(0,0,0,0.04);
-  transition: background 120ms ease-in-out;
-}
-
