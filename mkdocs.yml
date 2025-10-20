@@ -1,16 +1,23 @@
-site_name: Vanessa Eaton Personal Site
+site_name: Vanessa Eaton
 nav:
   - Home: index.md
-  # - Blog: blog.md
   - About: about.md
   # - Contact: contact.md
   - Resume: resume.md
+  # - Blog: blog
 site_url: https://vanessaeaton.tech
 theme:
   name: dracula
   custom_dir: overrides
   font:
     text: Poppins
+
+plugins: 
+  - blogging:
+      dirs: # The directories to be included
+        - blog
+      features:
+        tags: {}
 
 extra_css:
   - stylesheets/extra.css

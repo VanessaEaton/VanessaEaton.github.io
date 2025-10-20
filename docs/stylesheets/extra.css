@@ -20,6 +20,15 @@ a, .drac-text-white, .drac-text-black, .drac-text-purple, .drac-text-cyan, .drac
     color: black;
 }
 
+.btn-toggle {
+    color: black !important;
+    background-color: transparent !important;
+}
+
+.btn-toggle:focus, .btn-toggle:hover {
+    background-color: transparent !important;
+}
+
 code, pre, .drac-code {
     background-color: var(--black);
     color: thistle;
@@ -28,6 +37,11 @@ code, pre, .drac-code {
 
 .divider {
     min-width: 4rem !important;
+    z-index: 9;
+}
+
+.sidebar {
+    z-index: 10;
 }
 
 .h1, .h2, .h3, .h4, .h5, .h6 {
