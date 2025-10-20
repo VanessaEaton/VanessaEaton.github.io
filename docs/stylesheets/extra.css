@@ -5,6 +5,7 @@
 
 .drac-btn, .drac-heading, .drac-input, .drac-select, .drac-text {
     font-family: 'Poppins', sans-serif;
+    color: var(--black);
 }
 
 .drac-bg-purple-cyan, .drac-bg-purple-cyan, .drac-bg-purple, .drac-bg-cyan-green, .drac-scrollbar-purple {
@@ -20,11 +21,16 @@ a, .drac-text-white, .drac-text-black, .drac-text-purple, .drac-text-cyan, .drac
 }
 
 code, pre, .drac-code {
-    background-color: #B5AE9B;
-    color: black;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: var(--black);
+    color: thistle;
+    font-family: Fira Code, monospace;
 }
 
 .divider {
     min-width: 4rem !important;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: 'Playfair', sans-serif;
+    color: black;
 }
