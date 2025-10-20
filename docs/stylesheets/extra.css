@@ -34,3 +34,22 @@ code, pre, .drac-code {
     font-family: 'Playfair', sans-serif;
     color: black;
 }
+
+.navbar {
+    min-height: 1rem;
+    display: flex;
+    align-items: center;
+}
+
+/* Ensure the navbar inner container stretches and positions the search box to the right */
+.navbar .container-fluid {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.search-box {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+}
