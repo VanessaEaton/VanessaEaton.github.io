@@ -47,7 +47,10 @@ code, pre, .drac-code {
 .h1, .h2, .h3, .h4, .h5, .h6 {
     font-family: 'Playfair', sans-serif;
     color: black;
+    text-align: center;
 }
+
+
 
 .navbar {
     min-height: 1rem;
@@ -66,4 +69,22 @@ code, pre, .drac-code {
     margin-left: auto;
     display: flex;
     align-items: center;
+}
+
+.vanessa-header {
+    text-align: center;
+    font-family: 'Playfair', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.vanessa-lower {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.img, .profile-img {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    align-content: center;
+    display: block;
 }

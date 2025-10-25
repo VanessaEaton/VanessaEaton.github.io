@@ -2,3 +2,4 @@
 /site
 /.pub_blog_temp
 /.pub_min_cache
+.DS_Store

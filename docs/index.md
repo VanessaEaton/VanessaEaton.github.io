@@ -1,5 +1,5 @@
-# Vanessa Eaton
+# About Me
 
-what a cool, knowledgeable person, whoa
-
-`code snippet`
+Data scientist and ML product leader focused on impactful, 
+  human-centered innovation.  Showcasing a career built on 
+  strategic thinking, technical expertise, and authentic leadership.

@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{%- block content %}
+    {%- if page and page.is_homepage %}
+    <!-- block profile -->
+        {%- block profile %}
+            {% include "/modules/profile.html" %}
+        {%- endblock %}
+    <!-- endblock -->
+    {%- endif %}
+    {{ super() }}
+{%- endblock %}

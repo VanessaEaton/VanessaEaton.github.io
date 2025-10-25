@@ -1,8 +1,6 @@
 site_name: Vanessa Eaton
 nav:
   - Home: index.md
-  - About: about.md
-  # - Contact: contact.md
   - Resume: resume.md
   # - Blog: blog
 site_url: https://vanessaeaton.tech
