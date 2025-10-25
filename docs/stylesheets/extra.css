@@ -50,8 +50,6 @@ code, pre, .drac-code {
     text-align: center;
 }
 
-
-
 .navbar {
     min-height: 1rem;
     display: flex;
@@ -83,8 +81,16 @@ code, pre, .drac-code {
 
 .img, .profile-img {
     border-radius: 50%;
-    width: 300px;
-    height: 300px;
+    height: auto;
+    max-width: 80%;
     align-content: center;
     display: block;
+    box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.4);
+    border: #B5AE9B 2px solid;
+}
+
+.content-card {
+    background-color: white;
+    box-shadow: 0px 0px 5px 5px rgba(0, 0, 0, 0.4);
+    padding: 10%;
 }

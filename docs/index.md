@@ -1,5 +1,3 @@
-# About Me
+## About Me
 
-Data scientist and ML product leader focused on impactful, 
-  human-centered innovation.  Showcasing a career built on 
-  strategic thinking, technical expertise, and authentic leadership.
+I am an AI/ML Technical Product Manager focused on delivering production-level computer vision and machine learning solutions at scale. I value collaboration, mentorship and diversity in driving meaningful innovation.
