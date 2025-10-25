@@ -1,6 +1,6 @@
 # <p class="vanessa-header">Vanessa M. Eaton</p>
 
-<p class="vanessa-lower">623-326-7346 | eaton.vanessa@gmail.com </p>
+<p class="vanessa-lower">623-326-7346 | <a href="mailto:eaton.vanessa@gmail.com">eaton.vanessa@gmail.com</a> </p>
 
 ---
 
@@ -19,7 +19,7 @@ Proficiency in data instrumentation and operations ensures high-quality decision
 
 
 ## <p class="vanessa-header">Areas of Expertise</p>
-<div class="container" style="font-size:11;">
+<div class="container">
     <div class="row align-items-start justify-content-start">
         <div class="col">
         <ul>
@@ -43,9 +43,9 @@ Proficiency in data instrumentation and operations ensures high-quality decision
 </div>
 
 
-## Career History
-#### Walt Disney Corporation |Orlando, FL
-##### Senior Product Management, Machine Learning and Data Science 					                2021 – Present 
+## <p class="vanessa-header">Career History</p>
+### Walt Disney Corporation | _Orlando, FL_
+##### **Senior Product Management, Machine Learning and Data Science** | _2021 – Present_
 - Research, build, and deploy machine learning and data-backed products and features to enhance attractions and entertainment for the ultimate customer experience across 23 global theme parks and associated resort properties.   
 - Lead product development process from ideation through research, proof of concept, and feasibility while leading a team building minimum viable products and highly complex machine learning models. 
 - Manage concurrent development workflows while gathering and translating requirements, leading Agile processes, and balancing various priorities from stakeholders such as Safety Video Analytics, R+ Bot Detection, OpSheet Guest Per Vehicle, Smart Tables (Ideathon) .
@@ -76,33 +76,31 @@ Proficiency in data instrumentation and operations ensures high-quality decision
 - Delivered $7M+ annual value predictive algorithm in the cybersecurity space
 - Delivered end-to-end prediction engine integration into consumer application which generates $5M+ annually 
 
-- Predictive Caller | Orlando, FL
-Lead Data Scientist		 					                				   2020 – 2021
-Modeled data pipeline integration into call centers, single-handedly executing client projects while collaborating with leadership to define requirements, understand problem statements, and present model impact.
-Developed a library of commonly used functions while working with 850+ data features to build model processes, predictive classifications, and propensity models that generated $60k+ in monthly profit. 
-Facilitated client engagements by presenting validation parameters and managing communications during development, implementation, and optimization. 
+### Predictive Caller | _Orlando, FL_
+##### **Lead Data Scientist** | _2020 – 2021_
+- Modeled data pipeline integration into call centers, single-handedly executing client projects while collaborating with leadership to define requirements, understand problem statements, and present model impact.
+- Developed a library of commonly used functions while working with 850+ data features to build model processes, predictive classifications, and propensity models that generated $60k+ in monthly profit. 
+- Facilitated client engagements by presenting validation parameters and managing communications during development, implementation, and optimization. 
 
-- LMS, Inc. | Orlando, FL
-Data Scientist		 					                				   	   2018 – 2020
-Oversaw a team developing and deploying data science and business intelligence products and features into production while driving the productization of internal BI applications and data science tools. 
-Designed and implemented new database features to optimize data storage, unite disparate entities, and streamline data operations, championing ETL implementation for a proprietary consumer BI application. 
-Executed data governance standards and requirements aligned with policy and privacy best practices. 
-Developed deep learning models to showcase image classification use cases and prototyped models to create a correlation between education and business success in an entrepreneurial environment. 
-Performed case study research to model use cases for machine learning, presenting concepts to executive leadership. 
-Generated $4M in new business through extended contracts, scopes of work, and client SLAs.  
-Gathered requirements and delivered scope analysis for the development of a BI product for a Fortune 50 client. 
-Increased market research capacity through spatial analysis and predictive models capable of pinpointing zip codes in 95% of unknown instances. 
+### LMS, Inc. | _Orlando, FL_
+##### **Data Scientist** | _2018 – 2020_
+- Oversaw a team developing and deploying data science and business intelligence products and features into production while driving the productization of internal BI applications and data science tools. 
+- Designed and implemented new database features to optimize data storage, unite disparate entities, and streamline data operations, championing ETL implementation for a proprietary consumer BI application. 
+- Executed data governance standards and requirements aligned with policy and privacy best practices. 
+- Developed deep learning models to showcase image classification use cases and prototyped models to create a correlation between education and business success in an entrepreneurial environment. 
+- Performed case study research to model use cases for machine learning, presenting concepts to executive leadership. 
+- Generated $4M in new business through extended contracts, scopes of work, and client SLAs.  
+- Gathered requirements and delivered scope analysis for the development of a BI product for a Fortune 50 client. 
+- Increased market research capacity through spatial analysis and predictive models capable of pinpointing zip codes in 95% of unknown instances. 
 
-- Select Comfort, Inc. | Orlando, FL
-Sales Analyst	 					                				   	 	   2014 – 2018
+### Select Comfort, Inc. | _Orlando, FL_
+##### **Sales Analyst** | _2014 – 2018_
 Developed a predictive model to drive the success of a $2.5M+ four-person sales team while prototyping analytics tools to streamline sales operations and pipeline activities.
 
-- Glendale Community College | Glendale, AZ
-Mathematics Instructor	 					                				   	
-2012 – 2013
+### Glendale Community College | _Glendale, AZ_
+##### **Mathematics Instructor** | _2012 – 2013_
 Provided technical instruction and comprehensive feedback to approximately 90 adult engineering students, fostering a supportive and engaging learning environment tailored to their specific academic needs.
 
-- Peoria Unified School District | Glendale, AZ
-Engineering Instructor	 					                				   	
-2008 – 2012
+### Peoria Unified School District | _Glendale, AZ_
+##### **Engineering Instructor** | _2008 – 2012_
 Oversaw a cohort of 120 honors engineering students, providing personalized guidance and support to optimize academic performance, while concurrently mentoring a 9-student state engineering challenge team through project development and competition preparation, fostering a culture of excellence and achievement within the program.

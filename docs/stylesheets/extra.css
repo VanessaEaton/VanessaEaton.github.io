@@ -72,9 +72,11 @@ code, pre, .drac-code {
 .vanessa-header {
     text-align: center;
     font-family: 'Playfair', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 1rem;
 }
 
 .vanessa-lower {
+    justify-content: center;
     text-align: center;
     font-family: 'Poppins', sans-serif;
 }
