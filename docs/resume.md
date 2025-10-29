@@ -1,7 +1,5 @@
 # <p class="vanessa-header">Vanessa M. Eaton</p>
 
-<p class="vanessa-lower">623-326-7346 | <a href="mailto:eaton.vanessa@gmail.com">eaton.vanessa@gmail.com</a> </p>
-
 ---
 
 #### <p class="vanessa-lower">Leader in AI Technical Product Management</p>
